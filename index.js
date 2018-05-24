@@ -23,10 +23,18 @@ function johnLennonFacts(array) {
 
 function iLoveTheBeatles(num){
   var love = [];
+<<<<<<< HEAD
   do {
     love.push("I love the Beatles!") 
     num++
   } while(num < 15)
+=======
+  var i = 0
+  do {
+    love.push() = "I love the Beatles!"
+    i++
+  } while(i ==  num + 1)
+>>>>>>> d94d124494d81b562e01600ec944a458ae03d186
   
   return love
 
